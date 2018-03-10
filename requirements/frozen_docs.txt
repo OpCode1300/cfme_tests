@@ -77,7 +77,7 @@ ordereddict==1.1
 oslo.i18n==3.15.3
 oslo.serialization==2.18.0
 oslo.utils==3.26.0
-pandocfilters==1.4.1
+pandocfilters==1.4.2
 paramiko==2.1.2
 parsedatetime==2.4
 pathlib2==2.2.1
