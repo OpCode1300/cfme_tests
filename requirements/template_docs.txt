@@ -63,7 +63,7 @@ suds
 tabulate==0.7.7
 tornado
 tzlocal
-wait_for
+wait_for==1.0.9
 widgetastic.core>=0.20.0
 widgetastic.patternfly>=0.0.29
 yaycl
