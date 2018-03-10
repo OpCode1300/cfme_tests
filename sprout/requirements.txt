@@ -6,5 +6,5 @@ celery[redis]<3.2
 python-memcached
 flower
 gunicorn
-Command
+Command==0.1.0
 pika
