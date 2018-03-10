@@ -16,7 +16,7 @@ chardet==3.0.3
 click==6.7
 configparser==3.5.0
 cryptography==1.9
-debtcollector==1.14.0
+debtcollector==1.19.0
 decorator==4.0.11
 dectate==0.13
 diaper==1.3
