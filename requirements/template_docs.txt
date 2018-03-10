@@ -59,7 +59,7 @@ selenium<3.0.0
 shyaml
 slumber
 sqlalchemy
-suds
+suds==0.4
 tabulate==0.7.7
 tornado
 tzlocal
