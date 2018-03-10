@@ -96,4 +96,4 @@ psycopg2
 pyzmq
 
 # werkzeug.local until extraction
-werkzeug
+werkzeug==0.14.1
