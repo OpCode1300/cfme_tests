@@ -23,7 +23,7 @@ cmd2==0.7.2
 configparser==3.5.0
 cryptography==1.9
 dateparser==0.6.0
-debtcollector==1.14.0
+debtcollector==1.19.0
 decorator==4.0.11
 dectate==0.13
 deepdiff==3.3.0
