@@ -8,7 +8,7 @@ miq_version
 # External dependencies
 boto
 bottle
-bottle-sqlite
+bottle-sqlite==0.1.3
 cached-property
 deepdiff
 diaper
