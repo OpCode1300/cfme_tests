@@ -60,7 +60,7 @@ shyaml
 slumber
 sqlalchemy
 suds
-tabulate==0.7.7
+tabulate==0.8.2
 tornado
 tzlocal
 wait_for
