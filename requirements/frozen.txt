@@ -63,7 +63,7 @@ jira==1.0.10
 jmespath==0.9.3
 jsmin==2.2.2
 jsonpatch==1.15
-jsonpointer==1.10
+jsonpointer==2.0
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.0.1
