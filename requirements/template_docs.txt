@@ -17,7 +17,7 @@ dump2polarion
 fauxfactory>=2.0.7
 flake8
 functools32
-futures==3.0.5
+futures==3.2.0
 GitPython>=2.1.5
 ipython
 iso8601
