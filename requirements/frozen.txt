@@ -37,7 +37,7 @@ dump2polarion==0.19
 entrypoints==0.2.2
 enum34==1.1.6
 fauxfactory==2.1.0
-flake8==3.3.0
+flake8==3.5.0
 Flask==0.12.2
 funcsigs==1.0.2
 functools32==3.2.3.post2
