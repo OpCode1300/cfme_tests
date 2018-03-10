@@ -38,7 +38,7 @@ parsedatetime
 pdfminer
 progress
 py
-pycrypto
+pycrypto==2.6.1
 pygal
 
 # required for an import that we get from wrapanapi
