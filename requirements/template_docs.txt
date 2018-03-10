@@ -10,7 +10,7 @@ boto
 bottle
 bottle-sqlite
 cached-property
-deepdiff
+deepdiff==3.3.0
 diaper
 docker-py
 dump2polarion
