@@ -58,7 +58,7 @@ scp
 selenium<3.0.0
 shyaml
 slumber
-sqlalchemy
+sqlalchemy==1.2.5
 suds
 tabulate==0.7.7
 tornado
