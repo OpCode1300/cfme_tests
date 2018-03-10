@@ -87,7 +87,7 @@ pika
 ###
 
 # lxml super SGML parser, needs libxml2-devel and libxslt-devel
-lxml
+lxml==4.1.1
 
 # Postgres client bindings, needs postgresql-devel
 psycopg2
