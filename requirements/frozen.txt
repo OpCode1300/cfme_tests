@@ -163,7 +163,7 @@ ruamel.yaml==0.15.3
 s3transfer==0.1.10
 scandir==1.5
 scp==0.10.2
-selenium==2.53.6
+selenium==3.10.0
 selenium-smart-locator==0.2.0
 sentaku==0.6.2
 shyaml==0.5.0
