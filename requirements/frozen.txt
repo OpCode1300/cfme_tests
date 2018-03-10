@@ -148,7 +148,7 @@ pytz==2017.2
 pywinrm==0.2.2
 PyYAML==3.12
 pyzmq==16.0.2
-qtconsole==4.3.0
+qtconsole==4.3.1
 reg==0.11
 regex==2017.5.26
 repoze.lru==0.6
