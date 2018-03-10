@@ -58,7 +58,7 @@ ipython-genutils==0.2.0
 ipywidgets==6.0.0
 iso8601==0.1.11
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.10
 jira==1.0.10
 jmespath==0.9.3
 jsmin==2.2.2
