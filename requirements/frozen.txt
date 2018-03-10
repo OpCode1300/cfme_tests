@@ -147,7 +147,7 @@ python-swiftclient==3.3.0
 pytz==2017.2
 pywinrm==0.2.2
 PyYAML==3.12
-pyzmq==16.0.2
+pyzmq==17.0.0
 qtconsole==4.3.0
 reg==0.11
 regex==2017.5.26
