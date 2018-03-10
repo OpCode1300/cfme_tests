@@ -6,7 +6,7 @@ manageiq-client
 miq_version
 
 # External dependencies
-boto
+boto==2.48.0
 bottle
 bottle-sqlite
 cached-property
