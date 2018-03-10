@@ -62,7 +62,7 @@ sqlalchemy
 suds
 tabulate==0.7.7
 tornado
-tzlocal
+tzlocal==1.5.1
 wait_for
 widgetastic.core>=0.20.0
 widgetastic.patternfly>=0.0.29
