@@ -17,7 +17,7 @@ click==6.7
 configparser==3.5.0
 cryptography==1.9
 debtcollector==1.14.0
-decorator==4.0.11
+decorator==4.2.1
 dectate==0.13
 diaper==1.3
 docker-py==1.10.6
