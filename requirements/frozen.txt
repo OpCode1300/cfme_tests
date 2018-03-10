@@ -24,7 +24,7 @@ configparser==3.5.0
 cryptography==1.9
 dateparser==0.6.0
 debtcollector==1.14.0
-decorator==4.0.11
+decorator==4.2.1
 dectate==0.13
 deepdiff==3.3.0
 deprecation==1.0.1
