@@ -7,7 +7,7 @@ miq_version
 
 # External dependencies
 boto
-bottle
+bottle==0.12.13
 bottle-sqlite
 cached-property
 deepdiff
