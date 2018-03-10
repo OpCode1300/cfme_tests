@@ -3,7 +3,7 @@ Django<1.10
 django-object-actions
 django-ipware
 celery[redis]<3.2
-python-memcached
+python-memcached==1.59
 flower
 gunicorn
 Command
