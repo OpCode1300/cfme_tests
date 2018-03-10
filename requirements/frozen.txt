@@ -161,7 +161,7 @@ rsa==3.4.2
 ruamel.ordereddict==0.4.9
 ruamel.yaml==0.15.3
 s3transfer==0.1.10
-scandir==1.5
+scandir==1.7
 scp==0.10.2
 selenium==2.53.6
 selenium-smart-locator==0.2.0
