@@ -135,7 +135,7 @@ pytest==3.2.0
 pytesseract==0.1.7
 python-bugzilla==2.1.0
 python-cinderclient==2.2.0
-python-dateutil==2.6.0
+python-dateutil==2.6.1
 python-glanceclient==2.7.0
 python-heatclient==1.9.0
 python-ironicclient==1.13.0
