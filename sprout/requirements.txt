@@ -4,7 +4,7 @@ django-object-actions
 django-ipware
 celery[redis]<3.2
 python-memcached
-flower
+flower==0.9.2
 gunicorn
 Command
 pika
