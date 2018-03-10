@@ -57,7 +57,7 @@ scp
 # since 3.0 uses marionette by default
 selenium<3.0.0
 shyaml
-slumber
+slumber==0.7.1
 sqlalchemy
 suds
 tabulate==0.7.7
