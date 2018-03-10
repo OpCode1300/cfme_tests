@@ -153,7 +153,7 @@ reg==0.11
 regex==2017.5.26
 repoze.lru==0.6
 requests==2.17.3
-requests-ntlm==1.0.0
+requests-ntlm==1.1.0
 requestsexceptions==1.2.0
 rfc3986==1.0.0
 riggerlib==3.1.2
