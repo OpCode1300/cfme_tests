@@ -151,7 +151,7 @@ Werkzeug==0.12.2
 widgetastic.core==0.20.4
 widgetastic.patternfly==0.0.29
 widgetsnbextension==2.0.0
-wrapt==1.10.10
+wrapt==1.10.11
 xmltodict==0.11.0
 yaycl==0.2.0
 yaycl-crypt==0.2.0
