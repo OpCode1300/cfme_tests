@@ -102,7 +102,7 @@ oslo.serialization==2.18.0
 oslo.utils==3.26.0
 ovirt-engine-sdk-python==3.6.9.2
 packaging==16.8
-pandocfilters==1.4.1
+pandocfilters==1.4.2
 paramiko==2.1.2
 parsedatetime==2.4
 pathlib2==2.2.1
