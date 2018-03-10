@@ -50,7 +50,7 @@ jsmin==2.2.2
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.0.1
-jupyter-console==5.1.0
+jupyter-console==5.2.0
 jupyter-core==4.3.0
 keystoneauth1==2.20.0
 kwargify==2.2.0
