@@ -22,7 +22,7 @@ cliff==2.7.0
 cmd2==0.7.2
 configparser==3.5.0
 cryptography==1.9
-dateparser==0.6.0
+dateparser==0.7.0
 debtcollector==1.14.0
 decorator==4.0.11
 dectate==0.13
