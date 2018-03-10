@@ -33,7 +33,7 @@ multimethods.py
 navmazing
 numpy>=1.14.0
 matplotlib>=1.5.1
-paramiko
+paramiko==2.4.0
 parsedatetime
 pdfminer
 progress
