@@ -28,7 +28,7 @@ jupyter
 kwargify
 # 15.8.1 breaks yaycl: https://github.com/mk-fg/layered-yaml-attrdict-config/commit/ea12fbf31b96abf15543c7b436272d8854b5d324
 layered-yaml-attrdict-config
-mock
+mock==2.0.0
 multimethods.py
 navmazing
 numpy>=1.14.0
