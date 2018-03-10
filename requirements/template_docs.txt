@@ -2,7 +2,7 @@
 
 # Internal dependencies
 # MIQ REST API Client
-manageiq-client
+manageiq-client==0.4.0
 miq_version
 
 # External dependencies
