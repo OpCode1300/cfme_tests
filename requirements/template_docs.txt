@@ -56,7 +56,7 @@ riggerlib>=3.1.2
 scp
 # since 3.0 uses marionette by default
 selenium<3.0.0
-shyaml
+shyaml==0.5.0
 slumber
 sqlalchemy
 suds
