@@ -15,7 +15,7 @@ diaper
 docker-py
 dump2polarion
 fauxfactory>=2.0.7
-flake8
+flake8==3.5.0
 functools32
 futures==3.0.5
 GitPython>=2.1.5
