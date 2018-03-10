@@ -39,7 +39,7 @@ pdfminer
 progress
 py
 pycrypto
-pygal
+pygal==2.4.0
 
 # required for an import that we get from wrapanapi
 python-novaclient<7.0.0
