@@ -93,7 +93,7 @@ lxml
 psycopg2
 
 # zeromq bindings, for ipython and parallel testing, needs zeromq3-devel
-pyzmq
+pyzmq==17.0.0
 
 # werkzeug.local until extraction
 werkzeug
