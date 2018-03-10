@@ -50,7 +50,7 @@ python-bugzilla>=1.2.0
 python-dateutil
 python-jenkins
 pywinrm
-PyYAML
+PyYAML==3.12
 requests
 riggerlib>=3.1.2
 scp
