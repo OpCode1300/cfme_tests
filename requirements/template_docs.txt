@@ -67,7 +67,7 @@ wait_for
 widgetastic.core>=0.20.0
 widgetastic.patternfly>=0.0.29
 yaycl
-yaycl-crypt
+yaycl-crypt==0.3.0
 
 sentaku
 attrs
