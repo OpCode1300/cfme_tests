@@ -20,7 +20,7 @@ functools32
 futures==3.0.5
 GitPython>=2.1.5
 ipython
-iso8601
+iso8601==0.1.12
 Jinja2
 jira>=1.0.10
 jsmin
