@@ -136,7 +136,7 @@ SQLAlchemy==1.1.10
 stevedore==1.23.0
 stomp.py==4.1.17
 suds==0.4
-tabulate==0.7.7
+tabulate==0.8.2
 terminado==0.6
 testpath==0.3.1
 tornado==4.5.1
