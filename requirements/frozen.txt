@@ -66,7 +66,7 @@ jsonpatch==1.15
 jsonpointer==1.10
 jsonschema==2.6.0
 jupyter==1.0.0
-jupyter-client==5.0.1
+jupyter-client==5.2.3
 jupyter-console==5.1.0
 jupyter-core==4.3.0
 keystoneauth1==2.20.0
