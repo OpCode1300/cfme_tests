@@ -7,4 +7,4 @@ wrapanapi>=2.0.0
 ovirt-engine-sdk-python<4.0.0
 pycurl
 
-virtualenv
+virtualenv==15.2.0
