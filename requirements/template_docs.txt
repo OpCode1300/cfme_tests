@@ -37,7 +37,7 @@ paramiko
 parsedatetime
 pdfminer
 progress
-py
+py==1.5.3
 pycrypto
 pygal
 
