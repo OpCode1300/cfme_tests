@@ -13,7 +13,7 @@ cached-property
 deepdiff
 diaper
 docker-py
-dump2polarion
+dump2polarion==0.21
 fauxfactory>=2.0.7
 flake8
 functools32
