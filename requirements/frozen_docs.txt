@@ -106,7 +106,7 @@ pyparsing==2.2.0
 pytest==3.4.1
 pytesseract==0.1.7
 python-bugzilla==2.1.0
-python-dateutil==2.6.0
+python-dateutil==2.7.2
 python-novaclient==6.0.1
 pytz==2017.2
 pywinrm==0.2.2
