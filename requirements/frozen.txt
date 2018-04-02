@@ -62,7 +62,7 @@ Jinja2==2.9.6
 jira==1.0.10
 jmespath==0.9.3
 jsmin==2.2.2
-jsonpatch==1.15
+jsonpatch==1.23
 jsonpointer==1.10
 jsonschema==2.6.0
 jupyter==1.0.0
