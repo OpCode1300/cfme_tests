@@ -1,4 +1,4 @@
-Django<1.10
+Django==2.0.4
 -e git+git://github.com/izapolsk/django-json-field.git#egg=json_field
 django-object-actions
 django-ipware
