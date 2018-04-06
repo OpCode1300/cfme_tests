@@ -19,7 +19,7 @@ flake8
 functools32
 futures==3.0.5
 GitPython>=2.1.5
-ipython
+ipython==6.3.1
 iso8601
 Jinja2
 jira>=1.0.10
