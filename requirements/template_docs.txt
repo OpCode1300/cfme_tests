@@ -9,7 +9,7 @@ miq_version
 boto
 bottle
 bottle-sqlite
-cached-property
+cached-property==1.4.2
 deepdiff
 diaper
 docker-py
