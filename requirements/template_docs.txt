@@ -61,7 +61,7 @@ slumber
 sqlalchemy
 suds
 tabulate==0.7.7
-tornado
+tornado==5.0.2
 tzlocal
 wait_for
 widgetastic.core>=0.20.0
