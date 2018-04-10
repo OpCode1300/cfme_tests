@@ -44,7 +44,7 @@ pygal
 # required for an import that we get from wrapanapi
 python-novaclient<7.0.0
 
-PyGithub
+PyGithub==1.39
 pytest==3.4.1
 python-bugzilla>=1.2.0
 python-dateutil
