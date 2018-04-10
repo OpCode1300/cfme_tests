@@ -144,7 +144,7 @@ python-keystoneclient==3.10.0
 python-novaclient==6.0.1
 python-openstackclient==3.11.0
 python-swiftclient==3.3.0
-pytz==2017.2
+pytz==2018.4
 pywinrm==0.2.2
 PyYAML==3.12
 pyzmq==16.0.2
