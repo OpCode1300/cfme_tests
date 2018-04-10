@@ -26,7 +26,7 @@ docutils==0.13.1
 dump2polarion==0.21
 entrypoints==0.2.2
 enum34==1.1.6
-fauxfactory==2.1.0
+fauxfactory==3.0.2
 flake8==3.3.0
 Flask==0.12.2
 funcsigs==1.0.2
