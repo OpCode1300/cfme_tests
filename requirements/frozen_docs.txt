@@ -108,7 +108,7 @@ pytesseract==0.1.7
 python-bugzilla==2.1.0
 python-dateutil==2.6.0
 python-novaclient==6.0.1
-pytz==2017.2
+pytz==2018.4
 pywinrm==0.2.2
 PyYAML==3.12
 pyzmq==16.0.2
