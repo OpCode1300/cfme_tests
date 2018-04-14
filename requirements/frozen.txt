@@ -51,7 +51,7 @@ httplib2==0.10.3
 humanfriendly==4.4
 idna==2.5
 importscan==0.1
-ipaddress==1.0.18
+ipaddress==1.0.21
 ipykernel==4.6.1
 ipython==5.4.1
 ipython-genutils==0.2.0
