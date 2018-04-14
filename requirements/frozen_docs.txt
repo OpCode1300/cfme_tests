@@ -37,7 +37,7 @@ gunicorn==19.7.1
 html5lib==0.999999999
 idna==2.5
 importscan==0.1
-ipaddress==1.0.18
+ipaddress==1.0.21
 ipykernel==4.6.1
 ipython==5.4.1
 ipython-genutils==0.2.0
