@@ -105,7 +105,7 @@ packaging==16.8
 pandocfilters==1.4.1
 paramiko==2.1.2
 parsedatetime==2.4
-pathlib2==2.2.1
+pathlib2==2.3.2
 pillow==4.2.0
 pbr==3.0.1
 pdfminer==20140328
