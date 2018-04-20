@@ -42,7 +42,7 @@ pycrypto
 pygal
 
 # required for an import that we get from wrapanapi
-python-novaclient<7.0.0
+python-novaclient==10.2.0
 
 PyGithub
 pytest==3.4.1
