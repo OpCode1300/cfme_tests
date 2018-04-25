@@ -166,7 +166,7 @@ scp==0.10.2
 selenium==2.53.6
 selenium-smart-locator==0.2.0
 sentaku==0.6.2
-shyaml==0.5.0
+shyaml==0.5.2
 simplegeneric==0.8.1
 simplejson==3.10.0
 singledispatch==3.4.0.3
