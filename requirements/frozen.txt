@@ -45,7 +45,7 @@ future==0.16.0
 futures==3.0.5
 GitPython==2.1.5
 google-api-python-client==1.6.2
-gunicorn==19.7.1
+gunicorn==19.8.0
 html5lib==0.999999999
 httplib2==0.10.3
 humanfriendly==4.4
