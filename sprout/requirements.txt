@@ -5,6 +5,6 @@ django-ipware
 celery[redis]<3.2
 python-memcached
 flower
-gunicorn
+gunicorn==19.8.0
 Command
 pika
