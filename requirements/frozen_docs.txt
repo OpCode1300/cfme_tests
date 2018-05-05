@@ -119,7 +119,7 @@ requests==2.17.3
 requests-ntlm==1.0.0
 riggerlib==3.1.2
 scandir==1.5
-scp==0.10.2
+scp==0.11.0
 selenium==2.53.6
 selenium-smart-locator==0.2.0
 sentaku==0.6.2
