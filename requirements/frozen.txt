@@ -162,7 +162,7 @@ ruamel.ordereddict==0.4.9
 ruamel.yaml==0.15.3
 s3transfer==0.1.10
 scandir==1.5
-scp==0.10.2
+scp==0.11.0
 selenium==2.53.6
 selenium-smart-locator==0.2.0
 sentaku==0.6.2
