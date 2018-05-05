@@ -53,7 +53,7 @@ pywinrm
 PyYAML
 requests
 riggerlib>=3.1.2
-scp
+scp==0.11.0
 # since 3.0 uses marionette by default
 selenium<3.0.0
 shyaml
