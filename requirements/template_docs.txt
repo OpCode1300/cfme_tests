@@ -47,7 +47,7 @@ python-novaclient<7.0.0
 PyGithub
 pytest==3.4.1
 python-bugzilla>=1.2.0
-python-dateutil
+python-dateutil==2.7.3
 python-jenkins
 pywinrm
 PyYAML
