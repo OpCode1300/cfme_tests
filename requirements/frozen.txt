@@ -168,7 +168,7 @@ selenium-smart-locator==0.2.0
 sentaku==0.6.2
 shyaml==0.5.0
 simplegeneric==0.8.1
-simplejson==3.10.0
+simplejson==3.15.0
 singledispatch==3.4.0.3
 six==1.10.0
 slumber==0.7.1
