@@ -96,7 +96,7 @@ openstacksdk==0.9.16
 ordereddict==1.1
 os-client-config==1.27.0
 osc-lib==1.6.0
-oslo.config==4.3.0
+oslo.config==6.2.1
 oslo.i18n==3.15.3
 oslo.serialization==2.18.0
 oslo.utils==3.26.0
