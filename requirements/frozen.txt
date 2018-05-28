@@ -3,7 +3,7 @@ ansible==2.1.0.0
 appdirs==1.4.3
 asn1crypto==0.22.0
 attrs==17.2.0
-Babel==2.4.0
+Babel==2.6.0
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
