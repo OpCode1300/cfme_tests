@@ -175,7 +175,7 @@ slumber==0.7.1
 snowballstemmer==1.2.1
 Sphinx==1.6.5
 sphinx-rtd-theme==0.2.4
-SQLAlchemy==1.1.10
+SQLAlchemy==1.2.8
 stevedore==1.23.0
 stomp.py==4.1.17
 suds==0.4
