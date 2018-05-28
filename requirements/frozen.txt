@@ -173,7 +173,7 @@ singledispatch==3.4.0.3
 six==1.10.0
 slumber==0.7.1
 snowballstemmer==1.2.1
-Sphinx==1.6.5
+Sphinx==1.7.5
 sphinx-rtd-theme==0.2.4
 SQLAlchemy==1.1.10
 stevedore==1.23.0
