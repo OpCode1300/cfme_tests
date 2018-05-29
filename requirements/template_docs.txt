@@ -69,7 +69,7 @@ widgetastic.patternfly>=0.0.29
 yaycl
 yaycl-crypt
 
-sentaku
+sentaku==0.6.4
 attrs
 
 # docs requirements
