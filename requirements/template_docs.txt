@@ -30,7 +30,7 @@ kwargify
 layered-yaml-attrdict-config
 mock
 multimethods.py
-navmazing
+navmazing==1.1.5
 numpy>=1.14.0
 matplotlib>=1.5.1
 paramiko
