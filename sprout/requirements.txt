@@ -2,7 +2,7 @@ Django<1.10
 -e git+git://github.com/izapolsk/django-json-field.git#egg=json_field
 django-object-actions
 django-ipware
-celery[redis]<3.2
+celery[redis]==4.2.0
 python-memcached
 flower
 gunicorn
