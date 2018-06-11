@@ -49,7 +49,7 @@ gunicorn==19.7.1
 html5lib==0.999999999
 httplib2==0.10.3
 humanfriendly==4.4
-idna==2.5
+idna==2.7
 importscan==0.1
 ipaddress==1.0.18
 ipykernel==4.6.1
