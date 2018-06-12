@@ -3,7 +3,7 @@
 # Internal dependencies
 # MIQ REST API Client
 manageiq-client
-miq_version
+miq_version==0.1.2
 
 # External dependencies
 boto
