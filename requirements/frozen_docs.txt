@@ -115,7 +115,7 @@ pyzmq==16.0.2
 qtconsole==4.3.0
 reg==0.11
 repoze.lru==0.6
-requests==2.17.3
+requests==2.19.1
 requests-ntlm==1.0.0
 riggerlib==3.1.2
 scandir==1.5
