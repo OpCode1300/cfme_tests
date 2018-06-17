@@ -90,7 +90,7 @@ pika
 lxml
 
 # Postgres client bindings, needs postgresql-devel
-psycopg2
+psycopg2==2.7.5
 
 # zeromq bindings, for ipython and parallel testing, needs zeromq3-devel
 pyzmq
