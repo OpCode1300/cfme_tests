@@ -92,7 +92,7 @@ notebook==5.0.0
 ntlm-auth==1.0.4
 numpy==1.14.0
 oauth2client==4.1.1
-openstacksdk==0.9.16
+openstacksdk==0.14.0
 ordereddict==1.1
 os-client-config==1.27.0
 osc-lib==1.6.0
