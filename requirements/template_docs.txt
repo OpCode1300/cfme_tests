@@ -80,7 +80,7 @@ six>=1.9
 debtcollector
 
 # requirements for prt-bot interaction via RabbitMQ
-pika
+pika==0.12.0
 
 ###
 # Libraries with compiled components, and their related devel packages
