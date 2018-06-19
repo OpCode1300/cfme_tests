@@ -99,7 +99,7 @@ osc-lib==1.6.0
 oslo.config==4.3.0
 oslo.i18n==3.15.3
 oslo.serialization==2.18.0
-oslo.utils==3.26.0
+oslo.utils==3.36.3
 ovirt-engine-sdk-python==3.6.9.2
 packaging==16.8
 pandocfilters==1.4.1
