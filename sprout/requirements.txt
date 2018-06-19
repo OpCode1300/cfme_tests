@@ -7,4 +7,4 @@ python-memcached
 flower
 gunicorn
 Command
-pika
+pika==0.12.0
