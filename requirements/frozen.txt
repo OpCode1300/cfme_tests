@@ -134,7 +134,7 @@ pyparsing==2.2.0
 pytest==3.4.1
 pytesseract==0.1.7
 python-bugzilla==2.1.0
-python-cinderclient==2.2.0
+python-cinderclient==3.6.1
 python-dateutil==2.6.0
 python-glanceclient==2.7.0
 python-heatclient==1.9.0
