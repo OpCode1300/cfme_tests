@@ -36,7 +36,7 @@ matplotlib>=1.5.1
 paramiko
 parsedatetime
 pdfminer
-progress
+progress==1.4
 py
 pycrypto
 pygal
